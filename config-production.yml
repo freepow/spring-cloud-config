@@ -1,5 +1,0 @@
-service:
-  mode: "production"
-  params:
-    args1: Real
-    args2: Service
